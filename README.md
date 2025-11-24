@@ -1,7 +1,6 @@
 # Task Manager - Laravel Edition
 
-A comprehensive task management application built with Laravel and MySQL. This is a conversion of the original Node.js/Express application to Laravel framework.
-
+A comprehensive task management application built with Laravel and MySQL.
 ## Features
 
 - ✨ Create, read, update, and delete tasks
@@ -311,3 +310,4 @@ For issues, questions, or contributions, please open an issue on the project rep
 ---
 
 **Note:** This is a complete Laravel conversion of the original Node.js task manager application. All functionality has been preserved and enhanced with Laravel's powerful features like Eloquent ORM, validation, and Blade templating.
+
